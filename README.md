@@ -1,3 +1,3 @@
 # WhaleTaleDesigns
 
-Check out the [env](https://github.com/WhaleTaleDesigns/env) repository to get started.
+## This is a work in progress. Please check back later.
